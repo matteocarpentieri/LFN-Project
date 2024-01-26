@@ -16,6 +16,7 @@ This repository contains the code and documentation for the Learning from Networ
 
 To run and test the project code, follow the steps below:
 
-1. Open the [Google Colab Jupyter Notebook](link_to_your_notebook).
-2. Execute all the cells as explained in the notebook.
+1. Download the [UK_accidents dataset](https://www.kaggle.com/datasets/devansodariya/road-accident-united-kingdom-uk-dataset?resource=download)
+2. Open the [Google Colab Jupyter Notebook](link_to_your_notebook).
+3. Execute all the cells as explained in the notebook.
 
